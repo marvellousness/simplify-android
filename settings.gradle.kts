@@ -20,5 +20,5 @@ dependencyResolutionManagement {
 }
 
 rootProject.name = "Simplify Catalog"
-include(":app")
- 
+include(":catolog")
+include(":simplify")
